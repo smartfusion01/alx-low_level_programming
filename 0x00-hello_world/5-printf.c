@@ -2,7 +2,6 @@
 /**
  * main - main block
  * Return: 0
- * Program to print quote
  */
 int main(void)
 {
