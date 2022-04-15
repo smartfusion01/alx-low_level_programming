@@ -2,10 +2,10 @@
 #include "main.h"
 
 /**
-  * main - Program that prints out _putchar, followed by a new line
-  * Return: 0.
-  * Betty coding style
-  */
+ * main - Check description
+ * Description: It prints the word _putchar, followed by a new line.
+ * Return: 0.
+ */
 int main(void)
 {
 	char word[8] = "_putchar";
