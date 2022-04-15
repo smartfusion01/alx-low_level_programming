@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+/**
+  * main - Program that prints all possible different combinations
+  * of two digits
+  * Return: 0
+  * Betty style coding
+  */
+int main(void)
+{
+	int a, b;
+
+	for (a = 48; a <= 56; a++)
+	{
+		for (b = 49; b <= 57; b++)
+		{
+			if (b > a)
+			{
+				putchar(a);
+				puthcar(b);
+				if (a != 56 || b != 57)
+				{
+					putchar(',');
+					putchar(' ');
+				}
+			}
+		}
+	}
+	putchar('\n');
+	return (0);
+}
