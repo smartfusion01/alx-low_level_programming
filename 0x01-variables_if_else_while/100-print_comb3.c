@@ -17,7 +17,7 @@ int main(void)
 			if (b > a)
 			{
 				putchar(a);
-				puthcar(b);
+				putchar(b);
 				if (a != 56 || b != 57)
 				{
 					putchar(',');
