@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_times_table - prints times table
- * @n : times table to use
- * Return:void
- * Betty style coding
- */
+  * print_times_table - prints times table
+  * @n : times table to use
+  * Return:void
+  * Betty style coding
+  */
 
 void print_times_table(int n)
 {
