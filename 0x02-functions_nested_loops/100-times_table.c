@@ -6,7 +6,6 @@
   * Return:void
   * Betty style coding
   */
-
 void print_times_table(int n)
 {
 
