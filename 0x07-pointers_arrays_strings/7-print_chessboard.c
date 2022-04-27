@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
-  * print_chessboard - prints the chessboard
-  * @a: two dimensional array to print
-  * Return:Nothing
-  * Betty coding style
-  */
+ * print_chessboard - prints the chessboard
+ * @a: two dimensional array to print
+ * Return: Nothing
+ * Betty coding style
+ */
 void print_chessboard(char (*a)[8])
 {
 	int i, j;
