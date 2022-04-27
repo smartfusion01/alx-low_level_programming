@@ -3,8 +3,7 @@
 /**
  * print_chessboard - prints the chessboard
  * @a: two dimensional array to print
- * Return: Nothing
- * Betty coding style
+ *Return:Nothing
  */
 void print_chessboard(char (*a)[8])
 {
